@@ -106,8 +106,8 @@ Create a pull request.
 Please make sure your code follows the project's coding standards and includes tests for any new features or bug fixes.
 
 Contact
-Author: Your Name
+Author: Yishurun Getachew
 
-Email: your.email@example.com
+Email:yishurungetachew@gmail.com
 
-GitHub: yourusername
+GitHub: https://github.com/Yishurun1G
