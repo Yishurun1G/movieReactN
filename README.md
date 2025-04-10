@@ -47,7 +47,7 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Yishurun1G/movieReactN.git)
+   git clone https://github.com/Yishurun1G/movieReactN.git
 Navigate to the project directory:
 
 bash
